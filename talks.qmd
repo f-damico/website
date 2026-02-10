@@ -6,9 +6,17 @@ format:
     toc-depth: 2
 ---
 
-## 2025
+## 2026
 
 ### Talks
+
+- **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Slides](files/talks/Presentazione_UMI.pdf)
+
+  4th workshop of "Unione Matematica Italiana" (UMI) - Sapienza University of Rome, **23/01/2026**
+
+## 2025
+
+### Talks 
 
 - **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Slides](files/talks/2025/Presentazione_neural_scaling_laws.pdf)
 
