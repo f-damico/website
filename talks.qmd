@@ -10,9 +10,9 @@ format:
 
 ### Talks
 
-- **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Slides](files/talks/Presentazione_UMI.pdf)
+- **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Slides](files/talks/2026/Presentazione_UMI.pdf)
 
-  4th workshop of "Unione Matematica Italiana" (UMI) - Sapienza University of Rome, **23/01/2026**
+  4th workshop of Unione Matematica Italiana (UMI) - Sapienza University of Rome, **23/01/2026**
 
 ## 2025
 
