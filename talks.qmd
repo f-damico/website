@@ -20,9 +20,11 @@ format:
 
 - **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Slides](files/talks/2025/Presentazione_neural_scaling_laws.pdf)
 
-  Chimera group Journal Club - Sapienza University of Rome, **07/10/2025** 
+  Sapienza University of Rome - Chimera group Journal Club, **07/10/2025** 
 
-  Statistical mechanics group - University of Parma, **23/10/2025** 
+  University of Parma - Statistical mechanics group, **23/10/2025** 
+
+  Universidad Complutense de Madrid - Theoretical physics department seminar, **18/02/2026**
 
 - **Statistical mechanics of autoregressive models: towards a theory of Self-Attention** 🔽 [Slides](files/talks/2025/Presentazione_phd_talks.pdf)
 
