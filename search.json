@@ -1,31 +1,38 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "The random features p-spin Hopfield model 🔽 pdf\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
+    "text": "Hello! I am Francesco D’Amico, a PhD student in Physics at Sapienza University of Rome, where I work under the supervision of Matteo Negri and Chiara Cammarota on the topic of statistical theory of learning.\nMy research lies at the intersection of statistical mechanics, machine learning, and complex systems."
   },
   {
-    "objectID": "projects.html#masters-degree",
-    "href": "projects.html#masters-degree",
-    "title": "Projects",
-    "section": "",
-    "text": "The random features p-spin Hopfield model 🔽 pdf\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nData structure in machine learning and neural scaling laws\nAssociative memories and attention-class architectures\n\nApproximate likelihood methods in energy-based models\n\nOptimization and inference in hard computational tasks"
   },
   {
-    "objectID": "projects.html#bachelor-degree",
-    "href": "projects.html#bachelor-degree",
-    "title": "Projects",
-    "section": "Bachelor degree",
-    "text": "Bachelor degree\n\nExcellence program\n\nTheoretical study of Green method and numerical applications to real problems\nGreen method to solve a one-dimensional oscillator with a general force applied 🔽 pdf\nGreen method to solve the Laplacian equation of electric potential given a general charge distribution 🔽 pdf\nMontecarlo methods for statistical mecanics\nMy first statistical mechanics numerical study: I analyzed the phase transition in 2-D Ising model 🔽 numerical phase transition\n\n\n\nThesis\n\nModello di Vicsek topologico analizzato con tecniche di Machine Learning (Topological Vicsek model analyzed with Machine Learning methods). I performed parallel dynamics on GPUs of flock of birds and I used a DGCNN model to infer hidden parameters of simulations. 🔽 Thesis"
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About",
+    "section": "Academic Background",
+    "text": "Academic Background\n\nPhD in Physics, Sapienza University of Rome (2023–2026)\n\nVisiting PhD Student, École polytechnique fédérale de Lausanne (EPFL) - Matthieu Wyart - PCSL group (March - May 2026)\nVisiting PhD Student, Complutense University of Madrid - Group of Beatriz Seoane (March - May 2025)\nMaster’s Degree in Theoretical Physics, Sapienza University of Rome, 110/110 cum laude (2021-2023)\n\nPhysics department excellence program, Sapienza University of Rome (2018-2023)\nBachelor’s Degree in Physics, Sapienza University of Rome, 110/110 cum laude (2018-2021)"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Below is a complete list of my publications.\n\n\n\n\nReferences\n\nAlgorithmic thresholds in combinatorial optimization depend on the time scalingAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F.2025. arXiv preprint arXiv:2504.11174TL;DR: We studied the scaling behaviour with training time of algorithmic thresholds of simulated Annealing algorithm in k-SAT and Q-col problems.\n\n\nImplicit bias produces neural scaling laws in learning curves, from perceptrons to deep networksD’Amico, F., Bocchi, D., & Negri, M.2025. arXiv preprint arXiv:2505.13230TL;DR: We show with a simple Perceptron theory how the norm of a model can be used as a useful parameter to predict its scaling laws. We show with extensive simulations that also deep-networks in real datasets classification show the same behavior.\n\n\nPseudo-likelihood produces associative memories able to generalize, even for asymmetric couplingsD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M.2025. arXiv preprint arXiv:2507.05147TL;DR: We studied pseudo-likelihood training in an analitically tractable model. We show why it behaves as an associative memory and that during training time it interpolates between already known learning rules. We show that such model is capable of generalization and that it works even if couplings are not symmetric.\n\n\nStatistical mechanics of vector hopfield network near and above saturationNicoletti, F., D’Amico, F., & Negri, M.2025. arXiv preprint arXiv:2507.02586TL;DR: We studied the Vector Hopfield network with Hebb couplings in arbitrary number of dimensions, computing the equilibrium phase diagram and discovering an out-of-equilibrium denoising behaviour absent in standard hopfield model.\n\n\nSelf-attention as an attractor network: Transient memories without backpropagationD’Amico, F., & Negri, M.2024. 2024 IEEE workshop on complexity in engineering (COMPENG), 1–6TL;DR: We show that a simplified self-attention model trained directly via pseudo-likelihood minimization behaves as an associative memory at the very first step of dynamics."
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\n📧 francesco.damico@uniroma1.it\n\n💻 GitHub\n\n📑 Google Scholar"
+  },
+  {
+    "objectID": "about.html#download-cv",
+    "href": "about.html#download-cv",
+    "title": "About",
+    "section": "Download CV",
+    "text": "Download CV\n\nEnglish CV\n\nItalian Europass CV"
   },
   {
     "objectID": "tutoring.html",
@@ -77,38 +84,31 @@
     "text": "2024\n\nTalks\n\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Slides\nSISSA Journal Club — Trieste, 11/10/2024\n\n\n\nPosters\n\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Poster\nROccella Conference on Inference and AI, Roccella Ionica, 1-5/09/24\nSISSA Journal Club — Trieste, 11/10/2024"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Hello! I am Francesco D’Amico, a PhD student in Physics at Sapienza University of Rome, where I work under the supervision of Matteo Negri and Chiara Cammarota on the topic of statistical theory of learning.\nMy research lies at the intersection of statistical mechanics, machine learning, and complex systems."
+    "text": "The random features p-spin Hopfield model 🔽 pdf\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
   },
   {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nData structure in machine learning and neural scaling laws\nAssociative memories and attention-class architectures\n\nApproximate likelihood methods in energy-based models\n\nOptimization and inference in hard computational tasks"
+    "objectID": "projects.html#masters-degree",
+    "href": "projects.html#masters-degree",
+    "title": "Projects",
+    "section": "",
+    "text": "The random features p-spin Hopfield model 🔽 pdf\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
   },
   {
-    "objectID": "about.html#academic-background",
-    "href": "about.html#academic-background",
-    "title": "About",
-    "section": "Academic Background",
-    "text": "Academic Background\n\nPhD in Physics, Sapienza University of Rome (2023–2026)\n\nVisiting PhD Student, École polytechnique fédérale de Lausanne (EPFL) - Matthieu Wyart - PCSL group (March - May 2026)\nVisiting PhD Student, Complutense University of Madrid - Group of Beatriz Seoane (March - May 2025)\nMaster’s Degree in Theoretical Physics, Sapienza University of Rome, 110/110 cum laude (2021-2023)\n\nPhysics department excellence program, Sapienza University of Rome (2018-2023)\nBachelor’s Degree in Physics, Sapienza University of Rome, 110/110 cum laude (2018-2021)"
+    "objectID": "projects.html#bachelor-degree",
+    "href": "projects.html#bachelor-degree",
+    "title": "Projects",
+    "section": "Bachelor degree",
+    "text": "Bachelor degree\n\nExcellence program\n\nTheoretical study of Green method and numerical applications to real problems\nGreen method to solve a one-dimensional oscillator with a general force applied 🔽 pdf\nGreen method to solve the Laplacian equation of electric potential given a general charge distribution 🔽 pdf\nMontecarlo methods for statistical mecanics\nMy first statistical mechanics numerical study: I analyzed the phase transition in 2-D Ising model 🔽 numerical phase transition\n\n\n\nThesis\n\nModello di Vicsek topologico analizzato con tecniche di Machine Learning (Topological Vicsek model analyzed with Machine Learning methods). I performed parallel dynamics on GPUs of flock of birds and I used a DGCNN model to infer hidden parameters of simulations. 🔽 Thesis"
   },
   {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n\n📧 francesco.damico@uniroma1.it\n\n💻 GitHub\n\n📑 Google Scholar"
-  },
-  {
-    "objectID": "about.html#download-cv",
-    "href": "about.html#download-cv",
-    "title": "About",
-    "section": "Download CV",
-    "text": "Download CV\n\nEnglish CV\n\nItalian Europass CV"
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a complete list of my publications.\n\n\n\n\nReferences\n\nAlgorithmic thresholds in combinatorial optimization depend on the time scalingAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F.2025. arXiv preprint arXiv:2504.11174TL;DR: We studied the scaling behaviour with training time of algorithmic thresholds of simulated Annealing algorithm in k-SAT and Q-col problems.\n\n\nImplicit bias produces neural scaling laws in learning curves, from perceptrons to deep networksD’Amico, F., Bocchi, D., & Negri, M.2025. arXiv preprint arXiv:2505.13230TL;DR: We show with a simple Perceptron theory how the norm of a model can be used as a useful parameter to predict its scaling laws. We show with extensive simulations that also deep-networks in real datasets classification show the same behavior.\n\n\nPseudo-likelihood produces associative memories able to generalize, even for asymmetric couplingsD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M.2025. arXiv preprint arXiv:2507.05147TL;DR: We studied pseudo-likelihood training in an analitically tractable model. We show why it behaves as an associative memory and that during training time it interpolates between already known learning rules. We show that such model is capable of generalization and that it works even if couplings are not symmetric.\n\n\nStatistical mechanics of vector hopfield network near and above saturationNicoletti, F., D’Amico, F., & Negri, M.2025. arXiv preprint arXiv:2507.02586TL;DR: We studied the Vector Hopfield network with Hebb couplings in arbitrary number of dimensions, computing the equilibrium phase diagram and discovering an out-of-equilibrium denoising behaviour absent in standard hopfield model.\n\n\nSelf-attention as an attractor network: Transient memories without backpropagationD’Amico, F., & Negri, M.2024. 2024 IEEE workshop on complexity in engineering (COMPENG), 1–6TL;DR: We show that a simplified self-attention model trained directly via pseudo-likelihood minimization behaves as an associative memory at the very first step of dynamics."
   }
 ]
