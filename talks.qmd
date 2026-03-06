@@ -10,6 +10,10 @@ format:
 
 ### Talks
 
+- **Implicit bias produces scaling laws in learning curves, from perceptrons to deep networks** 🔽 [Slides](files/talks/2026/implicit_bias_scaling_laws.pdf)
+
+  PCSL group meeting - École polytechnique fédérale de Lausanne (EPFL), **06/03/2026** 
+
 - **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Slides](files/talks/2026/Presentazione_UMI.pdf)
 
   4th workshop of Unione Matematica Italiana (UMI) - Sapienza University of Rome, **23/01/2026**
