@@ -14,6 +14,8 @@ format:
 
   PCSL group meeting - École polytechnique fédérale de Lausanne (EPFL), **06/03/2026** 
 
+  ICLR26 short recorded talk - [Video](https://recorder-v3.slideslive.com/?share=107954&s=67d49165-9948-4e8d-8b31-6862e41145e1)
+
 - **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Slides](files/talks/2026/Presentazione_UMI.pdf)
 
   4th workshop of Unione Matematica Italiana (UMI) - Sapienza University of Rome, **23/01/2026**
