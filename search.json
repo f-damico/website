@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a complete list of my publications.\n\n\n\n\nReferences\n\nBenchmarking graph neural networks in solving hard constraint satisfaction problemsSkenderi, G., Buffoni, L., D’Amico, F., Machado, D., Marino, R., Negri, M., Ricci-Tersenghi, F., Lucibello, C., & Angelini, M. C.2026. arXiv preprint arXiv:2602.18419TL;DR: We constructed a publicly available principled dataset to benchmark graph neural networks performance on hard optimization problems and compare them with some algorithms. We show that most advanced network existing today have worst performance with respect to simple algorithms.\n\n\nPseudo-likelihood produces associative memories able to generalize, even for asymmetric couplingsD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M.2026. Physica A: Statistical Mechanics and its Applications, 131497. doi: https://doi.org/10.1016/j.physa.2026.131497. https://www.sciencedirect.com/science/article/pii/S0378437126002335TL;DR: We studied pseudo-likelihood/cross-entropy training in a two-bodies model. We show why it behaves as an associative memory, and that at training time it interpolates between classical learning rules. We show that such model is capable of generalization and that it works even if couplings are not symmetric.\n\n\nAlgorithmic thresholds in combinatorial optimization depend on the time scalingAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F.2025. Phys. Rev. X, DOI 10.1103/dw9m-95vvTL;DR: We studied the scaling behaviour with training time of algorithmic thresholds of simulated Annealing algorithm in k-SAT and Q-col problems.\n\n\nImplicit bias produces neural scaling laws in learning curves, from perceptrons to deep networksD’Amico, F., Bocchi, D., & Negri, M.2025. arXiv preprint arXiv:2505.13230TL;DR: We show with a simple Perceptron theory how the norm of a model can be used as a useful parameter to predict its scaling laws. We show with extensive simulations that also deep-networks in real datasets classification show the same behavior.\n\n\nStatistical mechanics of vector hopfield network near and above saturationNicoletti, F., D’Amico, F., & Negri, M.2025. J. Phys. A: Math. Theor. 58 505005, DOI 10.1088/1751-8121/ae2bd0TL;DR: We studied the Vector Hopfield network with Hebb couplings in arbitrary number of dimensions, computing the equilibrium phase diagram and discovering an out-of-equilibrium denoising behaviour absent in standard hopfield model.\n\n\nSelf-attention as an attractor network: Transient memories without backpropagationD’Amico, F., & Negri, M.2024. 2024 IEEE workshop on complexity in engineering (COMPENG), 1–6TL;DR: We show that a simplified self-attention model trained directly via pseudo-likelihood minimization behaves as an associative memory at the very first step of dynamics."
+  },
+  {
+    "objectID": "tutoring.html",
+    "href": "tutoring.html",
+    "title": "Tutoring",
+    "section": "",
+    "text": "From 10/2025 to 02/2026, 40 hours of exercises at blackboard, online discussions and exam support for students"
+  },
+  {
+    "objectID": "tutoring.html#analisi-1-per-fisica",
+    "href": "tutoring.html#analisi-1-per-fisica",
+    "title": "Tutoring",
+    "section": "",
+    "text": "From 10/2025 to 02/2026, 40 hours of exercises at blackboard, online discussions and exam support for students"
+  },
+  {
+    "objectID": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
+    "href": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
+    "title": "Tutoring",
+    "section": "Calcolo e statistica per Biotecnologie",
+    "text": "Calcolo e statistica per Biotecnologie\nFrom 11/2024 to 02/2025, 30 hours of exercises at blackboard, online discussions and exam support for students"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -35,25 +63,25 @@
     "text": "Download CV\n\nEnglish CV\n\nItalian Europass CV"
   },
   {
-    "objectID": "tutoring.html",
-    "href": "tutoring.html",
-    "title": "Tutoring",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "From 10/2025 to 02/2026, 40 hours of exercises at blackboard, online discussions and exam support for students"
+    "text": "The random features p-spin Hopfield model 🔽 pdf\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
   },
   {
-    "objectID": "tutoring.html#analisi-1-per-fisica",
-    "href": "tutoring.html#analisi-1-per-fisica",
-    "title": "Tutoring",
+    "objectID": "projects.html#masters-degree",
+    "href": "projects.html#masters-degree",
+    "title": "Projects",
     "section": "",
-    "text": "From 10/2025 to 02/2026, 40 hours of exercises at blackboard, online discussions and exam support for students"
+    "text": "The random features p-spin Hopfield model 🔽 pdf\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
   },
   {
-    "objectID": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
-    "href": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
-    "title": "Tutoring",
-    "section": "Calcolo e statistica per Biotecnologie",
-    "text": "Calcolo e statistica per Biotecnologie\nFrom 11/2024 to 02/2025, 30 hours of exercises at blackboard, online discussions and exam support for students"
+    "objectID": "projects.html#bachelor-degree",
+    "href": "projects.html#bachelor-degree",
+    "title": "Projects",
+    "section": "Bachelor degree",
+    "text": "Bachelor degree\n\nExcellence program\n\nTheoretical study of Green method and numerical applications to real problems\nGreen method to solve a one-dimensional oscillator with a general force applied 🔽 pdf\nGreen method to solve the Laplacian equation of electric potential given a general charge distribution 🔽 pdf\nMontecarlo methods for statistical mecanics\nMy first statistical mechanics numerical study: I analyzed the phase transition in 2-D Ising model 🔽 numerical phase transition\n\n\n\nThesis\n\nModello di Vicsek topologico analizzato con tecniche di Machine Learning (Topological Vicsek model analyzed with Machine Learning methods). I performed parallel dynamics on GPUs of flock of birds and I used a DGCNN model to infer hidden parameters of simulations. 🔽 Thesis"
   },
   {
     "objectID": "talks.html",
@@ -82,33 +110,5 @@
     "title": "Talks and Posters",
     "section": "2024",
     "text": "2024\n\nTalks\n\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Slides\nSISSA Journal Club — Trieste, 11/10/2024\n\n\n\nPosters\n\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Poster\nROccella Conference on Inference and AI, Roccella Ionica, 1-5/09/24\nSISSA Journal Club — Trieste, 11/10/2024"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "The random features p-spin Hopfield model 🔽 pdf\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
-  },
-  {
-    "objectID": "projects.html#masters-degree",
-    "href": "projects.html#masters-degree",
-    "title": "Projects",
-    "section": "",
-    "text": "The random features p-spin Hopfield model 🔽 pdf\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
-  },
-  {
-    "objectID": "projects.html#bachelor-degree",
-    "href": "projects.html#bachelor-degree",
-    "title": "Projects",
-    "section": "Bachelor degree",
-    "text": "Bachelor degree\n\nExcellence program\n\nTheoretical study of Green method and numerical applications to real problems\nGreen method to solve a one-dimensional oscillator with a general force applied 🔽 pdf\nGreen method to solve the Laplacian equation of electric potential given a general charge distribution 🔽 pdf\nMontecarlo methods for statistical mecanics\nMy first statistical mechanics numerical study: I analyzed the phase transition in 2-D Ising model 🔽 numerical phase transition\n\n\n\nThesis\n\nModello di Vicsek topologico analizzato con tecniche di Machine Learning (Topological Vicsek model analyzed with Machine Learning methods). I performed parallel dynamics on GPUs of flock of birds and I used a DGCNN model to infer hidden parameters of simulations. 🔽 Thesis"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Below is a complete list of my publications.\n\n\n\n\nReferences\n\nBenchmarking graph neural networks in solving hard constraint satisfaction problemsSkenderi, G., Buffoni, L., D’Amico, F., Machado, D., Marino, R., Negri, M., Ricci-Tersenghi, F., Lucibello, C., & Angelini, M. C.2026. arXiv preprint arXiv:2602.18419TL;DR: We constructed a publicly available principled dataset to benchmark graph neural networks performance on hard optimization problems and compare them with some algorithms. We show that most advanced network existing today have worst performance with respect to simple algorithms.\n\n\nAlgorithmic thresholds in combinatorial optimization depend on the time scalingAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F.2025. Phys. Rev. X, DOI 10.1103/dw9m-95vvTL;DR: We studied the scaling behaviour with training time of algorithmic thresholds of simulated Annealing algorithm in k-SAT and Q-col problems.\n\n\nImplicit bias produces neural scaling laws in learning curves, from perceptrons to deep networksD’Amico, F., Bocchi, D., & Negri, M.2025. arXiv preprint arXiv:2505.13230TL;DR: We show with a simple Perceptron theory how the norm of a model can be used as a useful parameter to predict its scaling laws. We show with extensive simulations that also deep-networks in real datasets classification show the same behavior.\n\n\nPseudo-likelihood produces associative memories able to generalize, even for asymmetric couplingsD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M.2025. arXiv preprint arXiv:2507.05147TL;DR: We studied pseudo-likelihood training in an analitically tractable model. We show why it behaves as an associative memory and that during training time it interpolates between already known learning rules. We show that such model is capable of generalization and that it works even if couplings are not symmetric.\n\n\nStatistical mechanics of vector hopfield network near and above saturationNicoletti, F., D’Amico, F., & Negri, M.2025. J. Phys. A: Math. Theor. 58 505005, DOI 10.1088/1751-8121/ae2bd0TL;DR: We studied the Vector Hopfield network with Hebb couplings in arbitrary number of dimensions, computing the equilibrium phase diagram and discovering an out-of-equilibrium denoising behaviour absent in standard hopfield model.\n\n\nSelf-attention as an attractor network: Transient memories without backpropagationD’Amico, F., & Negri, M.2024. 2024 IEEE workshop on complexity in engineering (COMPENG), 1–6TL;DR: We show that a simplified self-attention model trained directly via pseudo-likelihood minimization behaves as an associative memory at the very first step of dynamics."
   }
 ]
