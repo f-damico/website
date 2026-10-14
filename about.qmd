@@ -10,11 +10,13 @@ My research lies at the intersection of **statistical mechanics, machine learnin
 ---
 
 ## Research Interests
-- How **learning rules** affect training **dynamics and representations**
+- **Associative memories** and **attention**-class architectures
+- **Energy-based models** and **approximate likelihood** methods
 - **Generative models** and applications to **neuroscience**
 - **Data structure** in machine learning and **neural scaling laws** 
-- **Associative memories** and **attention**-class architectures  
-- **Energy-based models** and **approximate likelihood** methods   
+- How **learning rules** affect training **dynamics and representations**
+  
+   
 
 ---
 
