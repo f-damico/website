@@ -10,6 +10,10 @@ format:
 
 ### Talks
 
+- **Implicit bias produces scaling laws in learning curves, from perceptrons to deep networks** 🔽 [Presentation](files/talks/2026/implicit_bias_scaling_laws.pdf)
+
+  ROccella Conference on Inference and AI, Roccella Ionica, **1/09/26**
+
 - **Understanding transformers requires new physical systems: pseudo-likelihood and vector-spin models** 🔽 [Presentation](files/talks/2026/phys_systems_SA.pdf)
 
   Seminar at Boston College - Massachussets, United States, **21/06/2026**
