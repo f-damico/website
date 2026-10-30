@@ -10,7 +10,7 @@ format:
 
 ### Talks
 
-- **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Presentation](files/talks/2026/Presentazione_UMI.pdf)
+- **Understanding transformers requires new physical systems: pseudo-likelihood and vector-spin models** 🔽 [Presentation](files/talks/2026/phys_systems_SA.pdf)
 
   4th workshop of Unione Matematica Italiana (UMI) - Sapienza University of Rome, **23/01/2026**
 
