@@ -9,17 +9,22 @@ format:
 ## 2026
 
 ### Talks
+
+- **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Presentation](files/talks/2026/Presentazione_UMI.pdf)
+
+  4th workshop of Unione Matematica Italiana (UMI) - Sapienza University of Rome, **23/01/2026**
+
 - **Tutorial: how to build and train a GPT** 🔽 [Slides](files/talks/2026/Tutorial_GPT.pdf) - [Open Notebook](https://colab.research.google.com/drive/1eomCh5kSKzPE42YskaFfpfOUq65aNtri?usp=sharing)
 
   Statistical Physics of Deep Learning  III - Lake Como School of Advanced studies, **16/06/2026**
 
-- **Implicit bias produces scaling laws in learning curves, from perceptrons to deep networks** 🔽 [Slides](files/talks/2026/implicit_bias_scaling_laws.pdf)
+- **Implicit bias produces scaling laws in learning curves, from perceptrons to deep networks** 🔽 [Presentation](files/talks/2026/implicit_bias_scaling_laws.pdf)
 
   PCSL group meeting - École polytechnique fédérale de Lausanne (EPFL), **06/03/2026** 
 
   ICLR26 short recorded talk - [Video](https://recorder-v3.slideslive.com/?share=107954&s=67d49165-9948-4e8d-8b31-6862e41145e1)
 
-- **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Slides](files/talks/2026/Presentazione_UMI.pdf)
+- **Pseudolikelihood produces associative memories able to generalize, even for asymmetric couplings** 🔽 [Presentation](files/talks/2026/Presentazione_UMI.pdf)
 
   4th workshop of Unione Matematica Italiana (UMI) - Sapienza University of Rome, **23/01/2026**
 
@@ -39,7 +44,7 @@ format:
 
 ### Talks 
 
-- **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Slides](files/talks/2025/Presentazione_neural_scaling_laws.pdf)
+- **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Presentation](files/talks/2025/Presentazione_neural_scaling_laws.pdf)
 
   Sapienza University of Rome - Chimera group Journal Club, **07/10/2025** 
 
@@ -47,7 +52,7 @@ format:
 
   Universidad Complutense de Madrid - Theoretical physics department seminar, **18/02/2026**
 
-- **Statistical mechanics of autoregressive models: towards a theory of Self-Attention** 🔽 [Slides](files/talks/2025/Presentazione_phd_talks.pdf)
+- **Statistical mechanics of autoregressive models: towards a theory of Self-Attention** 🔽 [Presentation](files/talks/2025/Presentazione_phd_talks.pdf)
 
   PhD talks - Sapienza University of Rome, **16/10/2025**
 
@@ -71,7 +76,7 @@ format:
 
 ### Talks
 
-- *Self-attention as an attractor network: transient memories without backpropagation*  🔽 [Slides](files/talks/2024/SISSA_HSA.pdf)
+- *Self-attention as an attractor network: transient memories without backpropagation*  🔽 [Presentation](files/talks/2024/SISSA_HSA.pdf)
 
   SISSA Journal Club — Trieste, **11/10/2024**  
   
